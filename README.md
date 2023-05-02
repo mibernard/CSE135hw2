@@ -5,7 +5,7 @@
 - team member names: Adam Alemi, Roman Ahmadi, Matthew Bernard
 - your IP address of server, ssh key, grader log in information to the site and server: 
   - IP Address: 165.232.66.75
-  - SSH Key: 
+  - SSH Key: grader@192.241.155.33
   ## Grader password
 
 grader1234
